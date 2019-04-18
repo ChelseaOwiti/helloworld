@@ -1,0 +1,19 @@
+img {
+    width: 90%;
+}
+body {
+    font-family: fantasy;
+}
+.introduction {
+  color: #7A5C61;
+}
+.middle {
+  color: #392759;
+}
+.word {
+  font-style: italic;
+  font-size: 30px;
+}
+.doom {
+  font-style: oblique;
+}
